@@ -1,6 +1,6 @@
 <!-- Zyy Ca -->
 <a href="#" target="_blank">
-  <img src="svg/zyyzuki.svg" width="1200" alt="zyyzuki-official" />
+  <img src="svg/zyyzuki.svg" width="1200" alt="zyyzuki" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
